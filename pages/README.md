@@ -1,4 +1,4 @@
-# Data Structures Project, P III
+# Data Structures Project, P IV
 
 ## Course assistant
 
@@ -63,14 +63,14 @@ Generally the Telegram and IRC chats are linked (bridged) together, so the cours
 
 ## Example projects
 
-* [Saskeli's project](https://github.com/saskeli/NonogramSolver_TiRa) **Note:** The course has changes somewhat after this project was made.
-* Jussi was also kind enough to allow [his project](https://github.com/yussiv/Compress) to be provided as an example. But stated that the project was pretty minimum effort.
+* [Saskeli's project](https://github.com/saskeli/NonogramSolver_TiRa) **Note:** The course has changed somewhat after this project was made.
+* Jussi was also kind enough to allow [his project](https://github.com/yussiv/Compress) to be provided as an example. But stated that the project was made with pretty minimal effort.
 * Both of these still have a good project structure.
 
 ## :trophy: Conduct of the course
-Based on the number of study points (4) offered, the expected amount of work to complete the course should be approximately 107 hours. Plan to spend 15-20 hours on the course every week.
+Based on the number of credits (4) offered, the expected amount of work to complete the course should be approximately 107 hours. Plan to spend 15-20 hours on the course every week.
 
-On this course the student creates a program that solves some sort of a problem. For creating the problem the student will apply suitable data structures and algorithms. The problem to solve is selected by the student with the help of the course assistant. A passing (or even good) grade does not require developing an algorithm from scratch. A student may develop their own algorithm(s) if desired. The main point of the course is that the created program works correctly and efficiently. The size of the problem instances and required efficiency will depend on the topic, and will be decided with help from the course assistant. Some example topics can be found [here](aiheet.md).
+In this course the student creates a program that solves some sort of a problem. For solving the problem the student will apply suitable data structures and algorithms. The problem to solve is selected by the student with the help of the course assistant. A passing (or even good) grade does not require developing an algorithm from scratch. A student may develop their own algorithm(s) if desired. The main point of the course is that the created program works correctly and efficiently. The size of the problem instances and required efficiency will depend on the topic, and will be decided with help from the course assistant. Some example topics can be found [here](aiheet.md).
 
 The course will be partially (mostly) done online. All weekly submissions will be done online. The only mandatory meetings for the course are the first lecture and the demo session. More information on the submissions can be found [here](palautukset.md).
 
@@ -80,7 +80,7 @@ The primary goal of the course is to learn to implement data structures and algo
 
 Generally a good approach to incrementally complete a project has been to first implement the core functionality of the program by using ready-made data structures and algorithms (queues, heaps, sorting algorithms). That is, it may be a prudent to first quickly implement the core functinality and later replace library implementations with self-made ones, i.e. replace implementations defined by interfaces with data structures and algorithms made from scratch. This is the assumed working idea for the project timeline. If you want to approach the project in a different way, you should decide on progress milestones for the project with the course assistant during the first week of the course.
 
-## :chart_with_upwards_trend: Grounds for grading
+## :chart_with_upwards_trend: Grading criteria
 * Program: 30 p
    * Functionality and features 10 p
    * Testing 10 p
