@@ -19,7 +19,7 @@
     * Viikkoraportti numero 2: ks. [Palautukset](/sivut/palautukset.md)
     * Ohjelma: Aloitettu ydinalueen toteutus käyttäen tarvittaessa esim. Javan valmiita tietorakenteita (ArrayList, HashMap yms.). Nämä korvataan myöhemmin omilla tietorakenteilla, mutta useissa tapauksissa ohjelman toteutus on helpompi aloittaa jostain muusta kuin tietorakenteista.
     * Testaus: Koodin *kattava* yksikkötestaus. (esim. Javalla tehdyssä työssä JUnit)
-		* Varmista, että kun teet luokkia niin olet myös testannut ne mahdollisimman nopeasti/aikaisin (mieluiten testit samassa palautuksessa, kuin luokat on koodattu). Siten tiedät, että koodi, jonka juuri kirjoitit toimii kuten haluat. Tarvittaessa tutustu [OTM materiaaliin yksikkötestauksesta](https://github.com/mluukkai/Ohjelmistotekniikka2018/blob/master/web/junit.md).
+		* Varmista, että kun teet luokkia niin olet myös testannut ne mahdollisimman nopeasti/aikaisin (mieluiten testit samassa palautuksessa, kuin luokat on koodattu). Siten tiedät, että koodi, jonka juuri kirjoitit toimii kuten haluat. Tarvittaessa tutustu [OTM materiaaliin yksikkötestauksesta](https://github.com/mluukkai/ohjelmistotekniikka-kevat2019/blob/master/web/junit.md).
 
 # Viikko 3:
 
