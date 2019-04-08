@@ -20,12 +20,12 @@ Tarkempi aikataulu [täällä](sivut/aikataulu.md).
 | **16** 15.4.- |  |  |  |  |  |  |  |
 | **17** 22.4.- |  |  |  |  | Paja 15-18 BK107<br/>[DL 6 23:59](sivut/aikataulu.md#viikko-6) |  |  |
 | **18** 29.4.- |  |  |  |  |  |  |  |
-| **19** 6.5.-  _Tenttiviikko_ |  |  |  |  |  **[Lopullinen palautus](sivut/aikataulu.md#lopullinen-palautus-todo)** |  |  |
+| **19** 6.5.-  _Tenttiviikko_ | Demotilaisuus <br/>Exactum D122<br/>10-12 |  |  |  |  **[Lopullinen palautus](sivut/aikataulu.md#lopullinen-palautus-todo)** |  |  |
 
 ## :mega: Ajankohtaista
 
- <!-- * Demotilaisuuden ajankohdat on lyöty lukkoon. Ilmoituslinkki demotilaisuuteen on laitettu opiskelijoille linkinä. Ottakaa yhteyttä jos ette pääse kumpaankaan demotilaisuuteen.
- * Doodle linkki demotilaisuuden aikatauluttamiseksi on lähetetty kurssille ilmoittautuneille opiskelijoille. Sähköposti on lähtenyt siihen osoitteseen mikä on weboodiin rekisteröity.
+ * Demotilaisuuden ajankohdat on lyöty lukkoon. Ottakaa yhteyttä jos ette pääse kumpaankaan demotilaisuuteen.
+<!-- * Doodle linkki demotilaisuuden aikatauluttamiseksi on lähetetty kurssille ilmoittautuneille opiskelijoille. Sähköposti on lähtenyt siihen osoitteseen mikä on weboodiin rekisteröity.
  * Ekat koodikatselmoinnit on jaettu. Katsokaa katselmoitavat labtoolista.
  * Paja 8.2. lähtökohtaisesti peruttu. Mahdollisesti algopajaohjaus kuitenkin järjestyy. Yritän olla päätelaitteen lähettyvillä tänään. Jos on asiaa niin tökkikää ircissä tai sähköpostilla.
  * Labtoolin pitäisi nyt toimia!-->
@@ -56,7 +56,7 @@ Telegram kanava on (yleensä) sillattu irkkiin, joten ohjaajaan päässee käsik
 
 ## Demotilaisuus
 
-* <!-- Paikka ja aika: Demo #1: Keskiviikko 27.2. 14-16 B119, Demo #2: Torstai 7.3. 12-14 CK111. -->Suunnitelma on laittaa pari viikkoa kurssin alun jälkeen doodle kysely sopivimman demo-ajan löytämiseksi.
+* Paikka ja aika: Maanantai 6.5. 10-12 D122. <!--Suunnitelma on laittaa pari viikkoa kurssin alun jälkeen doodle kysely sopivimman demo-ajan löytämiseksi.-->
 * **PAKOLLINEN!** Ota yhteyttä jos et pääse demotilaisuuteen, se on läpipääsyyn pakollinen!
 * Demota kannattaa omalta kannettavalta. Tässa tapauksessa voi olla hyvä saapua demoon hyvissä ajoin ja varmistaa että projektori toimii koneen kanssa
 * Projektit ladataan myös etukäteen esityskoneelle. Mutta ei omalta koneelta esittäminen ei perinteisesti onnistu kauhean hyvin.
