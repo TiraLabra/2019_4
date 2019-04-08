@@ -63,8 +63,8 @@
 
 # Demo tilaisuus:
 
-<!-- * Tarkka aika ja paikka varmistuu kurssin kuluessa. 
-* Mahdolliset tilaisuudet: Keskiviikko 27.2. 14-16 B119, Torstai 7.3. 12-14 CK111-->
+<!-- * Tarkka aika ja paikka varmistuu kurssin kuluessa. -->
+* Aika ja paikka: Maanantai 6.5. 10-12 D122.
 * Mahdollisuus esittää koulun koneelta, mutta aiemmin sen kanssa on ollut ongelmia joten suositeltavaa ottaa oma läppäri.
 * Lyhyt noin 5 minuuttinen esitys ja mahdollisiin kysymyksiin vastailu (riippuen aikataulusta).
 
