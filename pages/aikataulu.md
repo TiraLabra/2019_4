@@ -63,8 +63,8 @@
 
 # Demo session:
 
-* The exact time and date will be available later.
-<!--* Possible session times: Wednesday 27.2. 14-16 B119, thursday 7.3. 12-14 CK111-->
+<!--* The exact time and date will be available later.-->
+* Time and place: Monday 6.5. 10-12 D122.
 * You can either present using the class computer or by using your own laptop. Typically using your own laptop is recommended.
 * A short approximately 5 minute presentation of your project and possibly some questions and answers.
 
